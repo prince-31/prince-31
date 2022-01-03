@@ -18,11 +18,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.c++.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/plasticine/50/000000/c.png"/> </a>
      <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/> </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/50/000000/javascript.png"/> </a>  
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/officel/50/000000/mysql.png"/> </a> 
     
